@@ -106,7 +106,7 @@ I'm a **Computer Science student** at UEMS (Universidade Estadual de Mato Grosso
     title="sql"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://skillicons.dev/icons?i=ps&theme=light" 
+    src="https://skillicons.dev/icons?i=mysql&theme=light" 
 />
 <img 
     align="left" 
